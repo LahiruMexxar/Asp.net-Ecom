@@ -1,0 +1,12 @@
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\bin\Debug\net6.0\BLL.dll
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\bin\Debug\net6.0\BLL.pdb
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\obj\Debug\net6.0\BLL.dll
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\obj\Debug\net6.0\BLL.pdb
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache

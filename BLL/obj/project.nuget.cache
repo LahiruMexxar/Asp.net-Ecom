@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lff5/0N1ZC28Ew2BSu2ckGFk7U8fDiIrs+Owv4Dn/IPwcXckKDCGWX/T/UEtlsTN8QJbutdCmWze1nBAIpqqfA==",
+  "success": true,
+  "projectFilePath": "D:\\MEXXAR\\ASP\\Ecom\\PayrollSystem\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lahiru Dahampath\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Lahiru Dahampath\\.nuget\\packages\\mysqlconnector\\2.3.3\\mysqlconnector.2.3.3.nupkg.sha512",
+    "C:\\Users\\Lahiru Dahampath\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\Lahiru Dahampath\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
