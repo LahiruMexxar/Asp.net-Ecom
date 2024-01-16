@@ -78,3 +78,6 @@ D:\MEXXAR\ASP\Ecom\PayrollSystem\PayrollSystem\obj\Debug\net6.0\PayrollSystem.ge
 D:\MEXXAR\ASP\Ecom\PayrollSystem\PayrollSystem\obj\Debug\net6.0\ref\PayrollSystem.dll
 D:\MEXXAR\ASP\Ecom\PayrollSystem\PayrollSystem\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\MEXXAR\ASP\Ecom\PayrollSystem\PayrollSystem\bin\Debug\net6.0\MySqlConnector.dll
+D:\MEXXAR\ASP\Ecom\PayrollSystem\PayrollSystem\obj\Debug\net6.0\PayrollSystem.sourcelink.json
+D:\MEXXAR\ASP\Ecom\PayrollSystem\PayrollSystem\bin\Debug\net6.0\BLL.dll
+D:\MEXXAR\ASP\Ecom\PayrollSystem\PayrollSystem\bin\Debug\net6.0\BLL.pdb

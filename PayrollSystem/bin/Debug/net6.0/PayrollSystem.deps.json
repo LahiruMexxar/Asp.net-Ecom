@@ -9,6 +9,7 @@
       "PayrollSystem/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+          "BLL": "1.0.0",
           "DAL": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.23",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.23",
@@ -608,6 +609,16 @@
           }
         }
       },
+      "BLL/1.0.0": {
+        "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+          "DAL": "1.0.0",
+          "MySqlConnector": "2.3.3"
+        },
+        "runtime": {
+          "BLL.dll": {}
+        }
+      },
       "DAL/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.23",
@@ -1032,6 +1043,11 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
+    },
+    "BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "DAL/1.0.0": {
       "type": "project",

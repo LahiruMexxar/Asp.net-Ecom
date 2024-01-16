@@ -1,5 +1,10 @@
+using BLL.Services;
+using BLL.Services.IServices;
 using DAL.Data;
+using DAL.Repository;
+using DAL.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
+using PayrollSystem.Mapping;
 using System;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,7 +18,9 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDBContext>(options =>
         options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
     );
-
+builder.Services.AddAutoMapper(typeof(MappingProfile));
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped<IProductService,ProductService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

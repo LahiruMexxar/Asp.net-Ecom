@@ -27,6 +27,75 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\MEXXAR\\ASP\\Ecom\\PayrollSystem\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\MEXXAR\\ASP\\Ecom\\PayrollSystem\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MEXXAR\\ASP\\Ecom\\PayrollSystem\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MEXXAR\\ASP\\Ecom\\PayrollSystem\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "D:\\MEXXAR\\ASP\\Ecom\\PayrollSystem\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Lahiru Dahampath\\.nuget\\packages\\",
+        "outputPath": "D:\\MEXXAR\\ASP\\Ecom\\PayrollSystem\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lahiru Dahampath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -40,6 +109,18 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.23, )"
+            },
             "MySqlConnector": {
               "target": "Package",
               "version": "[2.3.3, )"

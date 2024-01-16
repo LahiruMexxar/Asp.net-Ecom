@@ -10,3 +10,4 @@ D:\MEXXAR\ASP\Ecom\PayrollSystem\DAL\obj\Debug\net6.0\DAL.dll
 D:\MEXXAR\ASP\Ecom\PayrollSystem\DAL\obj\Debug\net6.0\refint\DAL.dll
 D:\MEXXAR\ASP\Ecom\PayrollSystem\DAL\obj\Debug\net6.0\DAL.pdb
 D:\MEXXAR\ASP\Ecom\PayrollSystem\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\MEXXAR\ASP\Ecom\PayrollSystem\DAL\obj\Debug\net6.0\DAL.sourcelink.json

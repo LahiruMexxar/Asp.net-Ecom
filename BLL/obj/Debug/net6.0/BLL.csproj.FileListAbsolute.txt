@@ -10,3 +10,7 @@ D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\obj\Debug\net6.0\refint\BLL.dll
 D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\obj\Debug\net6.0\BLL.pdb
 D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\obj\Debug\net6.0\ref\BLL.dll
 D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\bin\Debug\net6.0\DAL.dll
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\bin\Debug\net6.0\DAL.pdb
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\obj\Debug\net6.0\BLL.sourcelink.json
+D:\MEXXAR\ASP\Ecom\PayrollSystem\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
