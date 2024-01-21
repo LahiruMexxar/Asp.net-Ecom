@@ -11,7 +11,7 @@ namespace PayrollSystem.Mapping
     {
         public MappingProfile() 
         {
-            CreateMap<Product, CreateProductDTO>().ReverseMap();
+            CreateMap<Product, ProductDTO>().ReverseMap();
             CreateMap<CartItem, CartItemDTO>().ReverseMap();
             CreateMap<OrderBrief, OrderBriefDTO>()
                 .ForMember(dest => dest.OrderDetails, opt => opt.MapFrom(src => src.OrderDetails))

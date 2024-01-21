@@ -19,7 +19,7 @@ namespace PayrollSystem.Controllers
         }
 
         //Create an product
-        [HttpPost("Createroduct")]
+        [HttpPost("Createproduct")]
 
         public async Task<ResponseDTO<CreateProductDTO>> createAProduct(CreateProductDTO createProductDTO)
         {
